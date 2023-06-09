@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Soft UI Dashboard - v1.0.7
+* Chimik Digital - v1.0.7
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard
@@ -20159,7 +20159,7 @@ fieldset:disabled .btn {
 /*!
 
 =========================================================
-* Soft UI Dashboard - v1.0.7
+* Chimik Digital - v1.0.7
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard
@@ -20465,6 +20465,8 @@ fieldset:disabled .btn {
   background-color: #cb0c9f;
   border-color: #cb0c9f;
 }
+
+
 
 .btn-primary .btn.bg-outline-primary,
 .btn.bg-gradient-primary .btn.bg-outline-primary {
@@ -26695,4 +26697,11 @@ pre[class*="language-"] {
   }
 }
 
+.bg-gradient-primary {
+  background-image: linear-gradient(310deg, #13572E 0%, #21BD60 100%);
+}
+
+.navbar-vertical .navbar-nav>.nav-item .nav-link.active .icon {
+  background-image: linear-gradient(310deg, #13572E 0%, #21BD60 100%);
+}
 /*# sourceMappingURL=dashboard-free.css.map */
